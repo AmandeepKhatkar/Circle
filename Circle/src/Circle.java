@@ -4,7 +4,7 @@ public class Circle {
 
 		
 	
-			double radius = 1.0;//initilize 
+			double radius = 1.0;//initilization
 
 			public double getRadius() {
 				return radius;
